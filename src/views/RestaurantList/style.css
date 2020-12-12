@@ -1,0 +1,15 @@
+.restaurantlist {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: flex-start;
+}
+.restaurant {
+    padding: 0.5em;
+    width: 10em;
+}
+.restaurant img {
+    width: 120px;
+}
+.address, .phone {
+    display: none;
+}

@@ -1,0 +1,12 @@
+.mealList {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: flex-start;
+}
+.meal {
+    padding: 0.5em;
+    width: 10em;
+}
+.meal img {
+    width: 120px;
+}
